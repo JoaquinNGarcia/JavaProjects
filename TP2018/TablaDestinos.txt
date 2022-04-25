@@ -1,0 +1,15 @@
+Buenos Aires-Barcelona-1200-500
+Buenos Aires-Rio de Janeiro-200-0
+Buenos Aires-Roma-1100-500
+Buenos Aires-Salta-100-0
+Buenos Aires-Tokio-2300-1000
+Lima-Buenos Aires-300-100
+Mendoza-Barcelona-1400-500
+Mendoza-Paris-1500-500
+Mendoza-Salta-150-100
+Miami-Tokio-1400-500
+Rio de Janeiro-Buenos Aires-300-0
+Rio de Janeiro-Tokio-1450-500
+Roma-Paris-20-20
+Salta-Paris-1350-500
+Tokio-Miami-450-100

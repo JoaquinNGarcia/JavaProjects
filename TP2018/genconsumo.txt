@@ -1,0 +1,8 @@
+CON001-Indumentaria diaria-Remeras, pantalones, camperas y buzos.-Disponible-0.05
+CON002-Electrónica-Computación, sonido y TV's.-Disponible-0.10
+CON003-Jardineria-Flores, instrumentos de jardinería y fertilizantes.-Suspendido-0.05
+CON004-Perfumería-Perfumes importados, desodorantes y lociones.-Disponible-0.08
+CON005-Deportes-Pelotas, raquetas y paletas.-Disponible-0.08
+CON006-Limpieza-Detergentes, aerosoles, líquidos para pisos y vidrios.-Caduco-0.02
+CON007-Rodados-Cubiertas, aceites y porta equipajes.-Disponible-0.15
+CON008-Indumentaria formal-Trajes, cinturones, zapatos y camisas.-Caduco-0.12

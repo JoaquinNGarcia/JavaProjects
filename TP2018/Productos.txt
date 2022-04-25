@@ -1,0 +1,10 @@
+Bicicleta04-Rodado 20-500
+Bicicleta05-Rodado 28 carrera-750
+Compresor01-12 v. 20 litros x minuto-100
+Compresor02-12 v. 60 litros x minuto. Doble cilindro-200
+Pava01-1 litro. Eléctrica-60
+Pava02-2 litros. A pila-70
+Pelota01-Nro 4. Papi fútbol-40
+Pelota02-Nro 5. UEFA-50
+Silla01-Director reforzada-200
+Silla02-Reposera 3 posiciones-250

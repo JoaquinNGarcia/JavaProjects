@@ -1,0 +1,17 @@
+VIA016-DA1072-Vuelo en Turista desde Miami a Tokio-Disponible-2.5-Miami-Tokio-Turista-/
+VIA017-DA1072-Vuelo en Turista desde Miami a Tokio-Disponible-2.5-Miami-Tokio-Turista-/
+VIA018-DA1072-Vuelo en primera desde Miami a Tokio-Disponible-2.5-Miami-Tokio-Primera-Whisky Importado,50,Habanos Cubanos,50,/
+VIA019-AA367-Vuelo en Turista desde Buenos Aires a Roma-Disponible-2-Buenos Aires-Roma-Turista-/
+VIA020-AA367-Vuelo en Business desde Buenos Aires a Roma-Disponible-2-Buenos Aires-Roma-Bussines-Champagne,50,Sushi,100,/
+VIA021-COP998-Vuelo en Turista desde Lima a Buenos Aires-Disponible-1.5-Lima-Buenos Aires-Turista-/
+VIA022-COP998-Vuelo en Turista desde Lima a Buenos Aires-Disponible-1.5-Lima-Buenos Aires-Turista-/
+VIA023-COP998-Vuelo en Business desde Lima  Buenos Aires-Disponible-1.5-Lima-Buenos Aires-Business-Champagne,50,/
+VIA024-DA1073-Vuelo en Turista desde Miami a Tokio-Disponible-2.5-Miami-Tokio-Turista-/
+VIA025-DA1073-Vuelo en Business desde Miami a Tokio-Disponible-2.5-Miami-Tokio-Business-/
+VIA026-DA1073-Vuelo en Business desde Miami a Tokio-Disponible-2.5-Miami-Tokio-Business-Champagne,50,/
+VIA027-DA1073-Vuelo en Primera desde Miami a Tokio-Disponible-2.5-Miami-Tokio-Primera-Champagne,50,Whisky Importado,50,Habanos Cubanos,50,/
+VIA028-AA369-Vuelo en Turista desde Salta a Paris-Disponible-2-Salta-Paris-Turista-/
+VIA029-AA369-Vuelo en Primera desde Salta a Paris-Disponible-2-Salta-Paris-Primera-Champagne,50,Whisky Importado,50,Habanos Cubanos,50,/
+VIA030-AA395-Vuelo en Turista desde Mendoza a Barcelona-Disponible-3-Mendoza-Barcelona-Turista-/
+VIA031-AA395-Vuelo en Turista desde Mendoza a Barcelona-Disponible-3-Mendoza-Barcelona-Turista-/
+VIA032-AA395-Vuelo en Business desde Mendoza a Barcelona-Disponible-3-Mendoza-Barcelona-Business-Whisky Importado,50,Habanos Cubanos,50,/

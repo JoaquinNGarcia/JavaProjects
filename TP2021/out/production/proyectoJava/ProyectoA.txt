@@ -1,0 +1,47 @@
+Proyecto
+Gestion Proyectos
+400000
+Requerimiento funcional
+CU1
+3.5
+Requerimiento funcional
+CU2
+3.5
+Requerimiento funcional
+CU3
+3.5
+Requerimiento no funcional
+CUNF1
+subrequerimiento
+CUNF1_A
+subrequerimiento
+CUNF1_B
+subrequerimiento
+CUNF1_C
+subrequerimiento
+CUNF1_D
+Integrante
+Micheal
+Lider
+20
+Integrante
+Dwight
+Tester
+5
+Dominio
+4
+Integrante
+Jim
+Analista
+5
+No funcional
+Integrante
+Oscar
+Desarrollador
+7
+Senior
+Python
+Java
+JavaScript
+NodeJs
+x

@@ -1,0 +1,8 @@
+HOT001-Hilton Barcelona-Hotel de calidad ejecutiva ubicado en la plaza España-Disponible-0.80-5-600-2
+HOT002-Citizen Barcelona-Hotel de calidad ubicado en el centro de la ciudad-Disponible-0.50-4-350-4
+HOT003-Hilton Barcelona-Hotel de calidad ejecutiva ubicado en la plaza España-Caduco-0.80-5-600-3
+HOT004-Sheraton Buenos Aires-Hotel ejecutivo con buena vista ubicado en Puerto Madero-Disponible-0.70-5-500-3
+HOT005-Sheraton Rio de Janeiro-Hotel ubicado en el centro de la ciudad con vista a Copacabana-Disponible-0.70-5-650-3
+HOT006-Sheraton Rio de janeiro-Hotel ubicado en el centro de la ciudad con vista a Copacabana-Suspendido-0.70-5-650-4
+HOT007-Citizen Roma-Hotel de calidad ubicado a 2 cuadras de la Fontana di Trevi-Caduco-0.50-4-400-5
+HOT008-Citizen Roma-Hotel de calidad ubicado a 2 cuadras de la Fontana di Trevi-Disponible-0.50-4-400-2

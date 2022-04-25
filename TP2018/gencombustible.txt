@@ -1,0 +1,5 @@
+COM001-Nafta Super-Nafta de calidad intermedia.-Disponible-0.80
+COM002-Nafta Nitro-Nafta de máxima calidad.-Disponible-0.50
+COM003-Gas-Combustible económico de gas.-Disponible-1
+COM004-Diesel Power-Diesel de calidad intermedia.-Suspendido-0.80
+COM005-Diesel Premium-Diesel de máxima calidad.-Disponible-0.60

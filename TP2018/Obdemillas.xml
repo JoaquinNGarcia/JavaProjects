@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xml>
+   <Generacion>
+      <dni DNI="1111111">
+         <idgen>CON004</idgen>
+         <valor>2000</valor>
+         <idgen>CON005</idgen>
+         <valor>1450</valor>
+         <idgen>HOT008</idgen>
+         <valor>0</valor>
+         <idgen>COM003</idgen>
+         <valor>25</valor>
+         <idgen>CON004</idgen>
+         <valor>640</valor>
+      </dni>
+      <dni DNI="2222222">
+         <idgen>VIA013</idgen>
+         <valor>0</valor>
+         <idgen>CON001</idgen>
+         <valor>1500</valor>
+         <idgen>CON004</idgen>
+         <valor>3000</valor>
+         <idgen>CON006</idgen>
+         <valor>450</valor>
+         <idgen>COM001</idgen>
+         <valor>35</valor>
+         <idgen>VIA005</idgen>
+         <valor>0</valor>
+         <idgen>COM001</idgen>
+         <valor>34</valor>
+         <idgen>HOT001</idgen>
+         <valor>0</valor>
+      </dni>
+      <dni DNI="4444444">
+         <idgen>CON007</idgen>
+         <valor>10000</valor>
+         <idgen>CON008</idgen>
+         <valor>6730</valor>
+         <idgen>VIA008</idgen>
+         <valor>0</valor>
+         <idgen>COM004</idgen>
+         <valor>45</valor>
+         <idgen>HOT003</idgen>
+         <valor>0</valor>
+         <idgen>HOT004</idgen>
+         <valor>0</valor>
+      </dni>
+      <dni DNI="5555555">
+         <idgen>CON002</idgen>
+         <valor>11720</valor>
+         <idgen>VIA010</idgen>
+         <valor>0</valor>
+         <idgen>HOT005</idgen>
+         <valor>0</valor>
+         <idgen>COM002</idgen>
+         <valor>37</valor>
+         <idgen>CON001</idgen>
+         <valor>3140</valor>
+         <idgen>COM002</idgen>
+         <valor>41</valor>
+         <idgen>CON006</idgen>
+         <valor>410</valor>
+         <idgen>CON002</idgen>
+         <valor>5550</valor>
+         <idgen>CON001</idgen>
+         <valor>685</valor>
+         <idgen>CON004</idgen>
+         <valor>4230</valor>
+         <idgen>COM002</idgen>
+         <valor>40</valor>
+      </dni>
+      <dni DNI="8888888">
+         <idgen>CON003</idgen>
+         <valor>153</valor>
+      </dni>
+      <dni DNI="9999999">
+         <idgen>VIA006</idgen>
+         <valor>0</valor>
+         <idgen>CON008</idgen>
+         <valor>2450</valor>
+      </dni>
+   </Generacion>
+</xml>
+
